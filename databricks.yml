@@ -1,0 +1,10 @@
+bundle:
+  name: dlt-pipeline-demo
+
+targets:
+  default:
+    workspace:
+      host: https://dbc-9c31e6b9-cfa0.cloud.databricks.com/browse/folders/1814325082177374?o=1840313347608469
+      root_path: /Workspace/ideas-edm-databricks-test
+      profile: raghu
+    mode: production
